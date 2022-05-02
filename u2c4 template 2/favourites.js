@@ -1,4 +1,4 @@
-// write js code here corresponding to favourites.html
+// write js code he corresponding to favourites.html
 var favArr=JSON.parse(localStorage.getItem("favourites"))
 displayFav(favArr)
 function displayFav(favArr)

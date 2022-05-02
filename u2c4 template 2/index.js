@@ -13,7 +13,7 @@ function submitData(){
         var dataObj={
             matchNumber:form.matchNum.value,
             teamA:form.teamA.value,
-            teamB:form.teamB.value,
+            teamB:form.teamB.value ,
             date:form.date.value,
             venue:form.venue.value
         }
